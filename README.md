@@ -1,5 +1,5 @@
 # Banco-De-Dados-Java
-===================   Trabalho de integração de banco de dados PostgreSQL com Java   ===================
+================   Trabalho de integração de banco de dados PostgreSQL com Java   ================
 
 Integrantes: Victor Couto, João Pedro Ferracini, Raphael Wilson
 
